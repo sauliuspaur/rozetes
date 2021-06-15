@@ -1,0 +1,20 @@
+
+.mygtukai{
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    margin-top: 100px;
+}
+.card{
+    position: relavite;
+}
+.absolut-wrapper{
+    position: absolute!important;
+    top: 10px;
+    right: 10px;
+}
+.menu{
+    width: 1320px;
+    margin: auto;
+}
